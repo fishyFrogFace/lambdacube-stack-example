@@ -4,5 +4,5 @@ see:
 stack build
 
 compile and run:
-  stack ghci
-  main
+  `stack ghci`
+  `main`
