@@ -1,8 +1,11 @@
-see:
-  http://lambdacube3d.com/getting-started
+# Lambda-stack-example
 
-stack build
+see: http://lambdacube3d.com/getting-started
+
+`stack build`
 
 compile and run:
-  `stack ghci`
-  `main`
+
+`stack ghci`
+
+`*Main Hello Lib> main`
